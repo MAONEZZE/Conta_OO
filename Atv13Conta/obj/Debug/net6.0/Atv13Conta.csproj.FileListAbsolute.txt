@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\bin\Debug\net6.0\Atv13Conta.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\bin\Debug\net6.0\Atv13Conta.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\bin\Debug\net6.0\Atv13Conta.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\bin\Debug\net6.0\Atv13Conta.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\bin\Debug\net6.0\Atv13Conta.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\refint\Atv13Conta.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\Atv13Conta.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Atv13Conta\obj\Debug\net6.0\ref\Atv13Conta.dll
